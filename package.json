@@ -18,7 +18,7 @@
   },
   "main": "./pdf-table-extractor.js",
   "dependencies": {
-    "pdfjs-dist": "^1.5.446"
+    "pdfjs-dist": "^2.0.943"
   },
   "engines": {
     "node": ">=4.0.0"
